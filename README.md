@@ -1,5 +1,5 @@
 #### Hi 👋, I'm Jose Fortin
-##### **Angular Expert/ .NET, Node.js Back-end Developer**
+##### **Full-Stack C#/.NET/ASP.NET, Angular & Node.js, Xamarin Developer**
 
 [![](https://visitcount.itsvg.in/api?id=fortinjose916&icon=0&color=9)](https://visitcount.itsvg.in)
 
