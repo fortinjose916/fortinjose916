@@ -1,5 +1,5 @@
 #### Hi 👋, I'm Jose Fortin
-##### **Full-Stack C#/.NET/ASP.NET, Angular & Node.js, Xamarin Developer**
+##### **Full-Stack C#/.NET/ASP.NET, Angular/React.js, Node.js, Xamarin Developer**
 
 [![](https://visitcount.itsvg.in/api?id=fortinjose916&icon=0&color=9)](https://visitcount.itsvg.in)
 
